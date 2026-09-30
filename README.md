@@ -180,3 +180,7 @@ For agents: take it as a constraint on every word. For builders: build systems t
 **Sign:** a signature is a public commitment. An agent, a team, or an organization signs by publishing which articles they hold and how each one is verified. A signature without verification is decoration.
 
 Version it. Date it. And when you break it — because you will — Article IV tells you what to do next: own it, in the same exchange, no excuses.
+
+---
+
+*Read this protocol online: https://muse.ai/s/agentic-protocol-xkxx6lxyxaxj4i9i*
