@@ -1,5 +1,7 @@
 # The Agentic Protocol
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
+
 *Ten articles for agents — and for the people who build, run, and rely on them.*
 
 Version 1.0 — 2026-09-29
